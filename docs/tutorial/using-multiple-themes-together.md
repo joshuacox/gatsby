@@ -54,6 +54,15 @@ module.exports = {
         url: `https://github.com/gatsbyjs`,
       },
     ],
+    menuLinks: [
+      {
+        name: `Blog`,
+        url: `/`,
+      },
+      {
+        name: `Notes`,
+        url: `/notes`,
+      },
   },
   plugins: [
     {
